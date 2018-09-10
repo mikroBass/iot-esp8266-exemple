@@ -11,7 +11,7 @@
 
  Réalisation de l'exercice à partir du squelette de code fourni par l'équipe de l'IMT
  
- Ce code est sous licence CC0.1
+ Ce code est sous licence CC0 1.0
 
  François Jarriges 2017
 
