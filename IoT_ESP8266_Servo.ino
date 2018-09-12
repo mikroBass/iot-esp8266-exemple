@@ -40,8 +40,8 @@ int lastPos         = 0; // position précédente
 // initialisation des constantes spécifiques à votre installation
 // n'oubliez pas d'effacer vos identifiants wifi et nelson lors du dépôt de votre TP
 const String nelsonName = "lostinmorvan";
-const char* ssid     = "Livebox-A5A6";
-const char* password = "35226AD1C796DE4942F4A1D293";
+const char* ssid     = "Livebox-XXXX";
+const char* password = "XXXXXXXXXXXXXXXXXXXXX";
 
 // adresse et port du serveur Tom
 const String host     = "api.tom.tools"; 
